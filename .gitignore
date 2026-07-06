@@ -16,7 +16,10 @@ wheels/
 .idea/
 
 # Claude Code (local only)
-.claude/settings.local.json
+.claude/
+
+# Crash dumps
+*.stackdump
 
 # Jupyter
 .ipynb_checkpoints/
